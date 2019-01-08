@@ -3,3 +3,6 @@ banana
 
 Sandwitches
 Coffee
+
+Cereals
+Coffee
