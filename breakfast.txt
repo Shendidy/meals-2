@@ -1,2 +1,5 @@
 cereal 
 banana
+
+Sandwitches
+Coffee
